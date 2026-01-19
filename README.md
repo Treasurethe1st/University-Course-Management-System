@@ -1,17 +1,17 @@
 # University Management System (OOP Project)
 ### Programers Team
-Uwayezu Jean Marie Tresor(29807/2025)  - User Management (Component 1)
-Uwayezu Jean Marie Tresor(29807/2025)  - User Management (Component 1)
-Hozifa Adam(29677/2025)                - Course Management (Component 2)
-Aurore UYISENGA(30095/2025)            - Enrollment System (Component 3)
-Ruyange Adelin(20553/2022)             - Grade Management (Component 4)
-Allogo allogo(30588/2025)              - Notification System (Component 5)
-ISHIMWE Geraldine(30699/2025)          - Reporting System (Component 6)
-Albine UWINEZA(32364/2025)             - Authentication & Data Persistence (Components 7 & 8)
+Uwayezu Jean Marie Tresor(29807/2025)  - User Management (Component 1)  
+Uwayezu Jean Marie Tresor(29807/2025)  - User Management (Component 1)  
+Hozifa Adam(29677/2025)                - Course Management (Component 2)  
+Aurore UYISENGA(30095/2025)            - Enrollment System (Component 3)  
+Ruyange Adelin(20553/2022)             - Grade Management (Component 4)  
+Allogo allogo(30588/2025)              - Notification System (Component 5)  
+ISHIMWE Geraldine(30699/2025)          - Reporting System (Component 6)  
+Albine UWINEZA(32364/2025)             - Authentication & Data Persistence (Components 7 & 8)  
 
-A Java console-based University Management System demonstrating Object-Oriented Programming concepts.  
+A Java console-based University Management System demonstrating Object-Oriented Programming concepts.    
 
-This system manages students, instructors, courses, enrollments, and grades with role-based access (Admin, Instructor, Student).
+This system manages students, instructors, courses, enrollments, and grades with role-based access (Admin, Instructor, Student).  
 
 ---
 
