@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/Main.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/User.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/Student.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/Instructor.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/Admin.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/Course.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/EnrollmentManager.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/Grade.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/GradeManager.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/models/Enrollment.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/GPAManager.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/notifications/Notification.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/notifications/SMSNotification.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/notifications/InAppNotification.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/NotificationManager.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/reports/Report.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/reports/StudentTranscriptReport.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/reports/CourseRosterReport.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/reports/TeachingLoad.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/reports/DepartmentSummaryReport.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/ReportManager.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/UserManager.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/AnnouncementService.java</file>
+            <file>file:/home/tresor/Desktop/studies/documents/OOP/test/university-management-system_oop_proj-main/UniversityManagementSystem/src/com/university/services/GPAService.java</file>
+        </group>
+    </open-files>
+</project-private>

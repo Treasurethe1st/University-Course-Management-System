@@ -1,0 +1,9 @@
+# Ignore build folder
+build/
+
+# Ignore distribution folder
+dist/
+
+# Ignore test folder
+test/
+
