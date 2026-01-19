@@ -1,7 +1,7 @@
 # University Management System (OOP Project)
 ### Programers Team
 Uwayezu Jean Marie Tresor(29807/2025)  - User Management (Component 1)  
-Uwayezu Jean Marie Tresor(29807/2025)  - User Management (Component 1)  
+Niyomufasha belyse(30700/2025)         - User Management (Component 1)  
 Hozifa Adam(29677/2025)                - Course Management (Component 2)  
 Aurore UYISENGA(30095/2025)            - Enrollment System (Component 3)  
 Ruyange Adelin(20553/2022)             - Grade Management (Component 4)  
